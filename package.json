@@ -51,13 +51,13 @@
     "node": ">=8.0.0",
     "npm": ">=5.7.1"
   },
-  "author": "CKSource (http://cksource.com/)",
-  "license": "GPL-2.0-or-later",
-  "homepage": "https://ckeditor.com/ckeditor-5",
-  "bugs": "https://github.com/ckeditor/ckeditor5/issues",
+  "author": "Rajan Prasad",
+  "license": "MIT",
+  "homepage": "https://github.com/rajandmr/News-Editor",
+  "bugs": "https://github.com/rajandmr/News-Editor/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5-build-classic.git"
+    "url": "https://github.com/rajandmr/News-Editor"
   },
   "scripts": {
     "build": "webpack --mode production",
